@@ -42,7 +42,7 @@ export const SectionId = {
   Hero: 'hero',
   About: 'sobre',
   Contact: 'contato',
-  Portfolio: 'portfolio',
+  Portfolio: 'projetos',
   Resume: 'resume',
   Skills: 'habilidades',
   Stats: 'stats',
