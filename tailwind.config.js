@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         yellow: '#efc603',
       },
+      height: {
+        dvh: '100dvh',
+      },
       keyframes: {
         typing: {
           '0%, 100%': {width: '0%'},
